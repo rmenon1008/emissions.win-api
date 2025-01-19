@@ -52,6 +52,7 @@ class Location(MongoBaseModel):
     status: Literal["ground", "flying"] = Field(...)
     airport_id: Optional[ObjectId] = Field(default=None)
     timestamp: datetime.datetime = Field(...)
+    processed: bool = Field(default=False)
 
 
 class Trip(MongoBaseModel):

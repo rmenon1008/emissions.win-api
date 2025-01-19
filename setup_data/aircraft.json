@@ -4,5 +4,11 @@
         "name": "Elon Musk's Private Jet",
         "engine_count": 2,
         "engine_model": "BR700-725A112"
+    },
+    {
+        "registration": "N433YX",
+        "name": "Fake Plane",
+        "engine_count": 2,
+        "engine_model": "BR700-725A112"
     }
 ]
