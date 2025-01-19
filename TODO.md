@@ -1,0 +1,6 @@
+- [ ] Create separate git repo for backend and frontend
+- [ ] Switch to airplanes.live (free)
+- [ ] Location classification (is it enough just to look at ground speed?)
+- [ ] Trip classification (what level of complexity is needed?)
+- [ ] Deploy backend to Digital Ocean
+- [ ] Deploy frontend to Vercel?

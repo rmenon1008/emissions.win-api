@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Elon Musk",
+        "image_url": "/static/images/elon_musk.jpg",
+        "about_url": "https://en.wikipedia.org/wiki/Elon_Musk",
+        "description": "Elon Reeve Musk (born June 28, 1971) is a businessman known for his key roles in the space company SpaceX and the automotive company Tesla, Inc. He is also known for his ownership of X Corp. (the company that operates the social media platform X, formerly Twitter), and his role in the founding of the Boring Company, xAI, Neuralink, and OpenAI. Musk is the wealthiest individual in the world; as of January 2025, Forbes estimates his net worth to be US$421 billion.",
+        "aircraft_registrations": ["N628TS"]
+    }
+]
